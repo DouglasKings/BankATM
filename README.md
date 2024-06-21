@@ -1,2 +1,3 @@
 # BankATM
- This is a C program to simulate a simple bank account system.
+This is a C program to simulate a simple bank account system.
+Write a C program to simulate a simple bank account system. The program should prompt the user to enter the initial account balance and then repeatedly ask the user to enter transactions (withdrawals or deposits) until the user chooses to exit. The program should update the account balance after each transaction and display the new balance.
